@@ -39,7 +39,7 @@
     </Variable>
     <Variable>
       <Name>CP_GROUP_ID</Name>
-      <Value>100</Name>
+      <Value>100</Value>
     </Variable>
   </Environment>
   <Data>
